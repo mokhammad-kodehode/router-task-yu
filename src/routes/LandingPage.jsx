@@ -5,7 +5,7 @@ import style from './landind.module.css'
 export function LandingPage() {
     return (
         <div className={style.container}>
-            <img className={style.maincar} src="./src/assets/Car.svg" alt="" />
+            <img className={style.maincar} src="./router-task-yu/src/assets/Car.svg" alt="" />
             <div className={style.title}>
                 <h1>Explore your favority cars</h1>
                 <h1>Enjoy the luxury</h1>

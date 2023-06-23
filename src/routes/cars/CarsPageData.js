@@ -1,7 +1,7 @@
 export const carArray = [
   {
     carName: "Porsche 918 Spyder",
-    imgSrc: "/Porcheone.png",
+    imgSrc: "/router-task-yu/Porcheone.png",
     description: "Power(kW)/Power(PS)",
     speed: "309kW/420 PS",
     accel: "4.4s",
@@ -12,7 +12,7 @@ export const carArray = [
   {
     id: 2,
     carName: "BMW M5 Competition 2023",
-    imgSrc: "/BMWM5.svg",
+    imgSrc: "/router-task-yu/BMWM5.svg",
     description: "Power(kW)/Power(PS)",
     speed: "309kW/420 PS",
     accel: "3.8s",
@@ -23,7 +23,7 @@ export const carArray = [
   {
     id: 3,
     carName: "Lamborghini Aventador S",
-    imgSrc: "/Lamba.svg",
+    imgSrc: "/router-task-yu/Lamba.svg",
     description: "Car info",
     speed: "309kW/420 PS",
     accel: "4.1s",
@@ -34,7 +34,7 @@ export const carArray = [
   {
     id: 4,
     carName: "Lamborghini Aventador S",
-    imgSrc: "/Lamba.svg",
+    imgSrc: "/router-task-yu/Lamba.svg",
     description: "Car info",
     speed: "309kW/420 PS",
   },
