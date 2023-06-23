@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #2C2B33;
+    width: 393px;
+   height: 650px;
+   border-radius: 20px;
+}
+
+.circle {
+display: flex;
+width: 260px;
+height: 260px;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+background: #ffffff;
+color: rgb(52, 230, 52);
+font-size: 160px;
+}
+
+.container p {
+    color: #ffffff;
+    width: 250px;
+    padding-top: 30px;
+    text-align: center;
+}

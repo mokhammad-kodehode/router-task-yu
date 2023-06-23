@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #2C2B33;
+    width: 393px;
+   height: 650px;
+   border-radius: 20px;
+}
+
+.container form {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 350px;
+height: 450px;
+background: #0D0202;
+border-radius: 18px;
+gap: 1rem;
+}

@@ -1,0 +1,24 @@
+#root {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: transparent
+  }
+  ::-webkit-scrollbar-button {
+    opacity: 0;
+  }
+  
+  ::-webkit-scrollbar-corner {
+    opacity: 0;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    opacity: 0.3;
+    background: linear-gradient(45deg, var(--textcolor), var(--textnavbar));
+  }

@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    background-color: #2C2B33;
+    width: 393px;
+   height: 650px;
+    overflow: hidden;
+    gap: 1rem;
+    border-radius: 20px;
+}
+
+.maincar {
+    transform: translate(-40%);
+    width: 400px;
+    right: 150px;
+    top: 25%;
+
+}
+
+.title {
+    
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.title h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+p {
+    padding-left: 10px;
+    margin: 0;
+    color: rgb(185, 185, 185);
+}
+
+.Btnmain {
+    text-decoration: none;
+    background-color: #f0eded;
+    width: 250px;
+    height: 40px;
+    margin: 20px auto 0 auto ;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.Btnmain a {
+    text-decoration: none;
+    color: rgb(60, 60, 60);
+    font-size: 18px;
+    font-weight: 600;
+}
